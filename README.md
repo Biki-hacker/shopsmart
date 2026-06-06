@@ -15,7 +15,7 @@
 
 A modern, frontend-only e-commerce web application featuring a professional UI, real-time product filtering, shopping cart with persistence, and a built-in rule-based NLP chatbot — all without a backend.
 
-[Live Demo](#) · [Report Bug](#) · [Request Feature](#)
+[Live Demo](https://shopsmart-alpha.vercel.app/) · [Report Bug](#) · [Request Feature](#)
 
 </div>
 
