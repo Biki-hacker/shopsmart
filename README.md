@@ -21,20 +21,6 @@ A modern, frontend-only e-commerce web application featuring a professional UI, 
 
 ---
 
-## 📸 Screenshots
-
-| Home | Products | Product Detail |
-|------|----------|----------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Detail](screenshots/detail.png) |
-
-| Cart | Chatbot | Mobile |
-|------|---------|--------|
-| ![Cart](screenshots/cart.png) | ![Chatbot](screenshots/chatbot.png) | ![Mobile](screenshots/mobile.png) |
-
-> **Note:** Add screenshots to a `/screenshots` directory after running the app locally.
-
----
-
 ## ✨ Features
 
 | Feature | Description |
